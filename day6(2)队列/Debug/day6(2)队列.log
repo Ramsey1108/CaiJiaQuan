@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\surface\Desktop\code\王道c语言督学营\中级阶段\day6(2)队列\main.cpp(107,12): warning C4101: “m”: 未引用的局部变量
+C:\Users\surface\Desktop\code\王道c语言督学营\中级阶段\day6(2)队列\main.cpp(103,12): warning C4101: “e”: 未引用的局部变量
+C:\Users\surface\Desktop\code\王道c语言督学营\中级阶段\day6(2)队列\main.cpp(108,8): warning C4101: “Flag”: 未引用的局部变量
+C:\Users\surface\Desktop\code\王道c语言督学营\中级阶段\day6(2)队列\main.cpp(102,8): warning C4101: “ret”: 未引用的局部变量
+C:\Users\surface\Desktop\code\王道c语言督学营\中级阶段\day6(2)队列\main.cpp(97): warning C4715: “DeQueue”: 不是所有的控件路径都返回值
+  day6(2)队列.vcxproj -> C:\Users\surface\Desktop\code\王道c语言督学营\中级阶段\Debug\day6(2)队列.exe
